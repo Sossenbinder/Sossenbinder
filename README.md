@@ -14,6 +14,6 @@ It contains various projects, some public, some private, mostly centered around:
 
 👯 I’m always looking to collaborate on whatever sounds interesting, paid or free. Leave me a message if you have something in mind!
 
-💬 Additionally, I am always happy to help and teach people. If you think my skillset can help you, don't hesitate to shoot me a message 📨
+📨 Additionally, I am always happy to help and teach people. If you think my skillset can help you, don't hesitate to send me a message.
 
 ### Find my matching Blazor portfolio page at [Dotschranz.net](https://dotschranz.net) (Get it, .net? Heh)
