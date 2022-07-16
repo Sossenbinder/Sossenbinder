@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Glad you found my private Github profile!
+Glad you found my private Github profile! I'm Stefan, 26 years old, located in southern Germany, and I work as a Senior fullstack developer professionally.
+
+I'm a huge fan of C#, Dotnet, JavaScript and everything revolving around cloud, from Docker over Kubernetes up to Serverless.
 
 This is a personal coding space I spend my free time on, since coding does not stop after clocking out at 5pm for me.
 
