@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**Sossenbinder/Sossenbinder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Glad you found my private Github profile!
 
-Here are some ideas to get you started:
+This is a personal coding space I spend my free time on, since coding does not stop after clocking out at 5pm for me.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+It contains various projects, some public, some private, mostly centered around:
+- Dotnet & C# 
+- Javascript
+- Cloud (Kubernetes & Docker)
+- Serverless (Azure Functions)
+
+📖 I love diving into new concepts, so be prepared to find some PoC repositories here as well.
+
+👯 I’m always looking to collaborate on whatever sounds interesting, paid or free. Leave me a message if you have something in mind!
+
+💬 Additionally, I am always happy to help and teach people. If you think my skillset can help you, don't hesitate to shoot me a message 📨
+
+### Find my matching Blazor portfolio page at [Dotschranz.net](https://dotschranz.net) (Get it, .net? Heh)
