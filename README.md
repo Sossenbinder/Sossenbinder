@@ -19,3 +19,5 @@ It contains various projects, some public, some private, mostly centered around:
 📨 Additionally, I am always happy to help and teach people. If you think my skillset can help you, don't hesitate to send me a message.
 
 ### Find my matching Blazor portfolio page at [Dotschranz.net](https://dotschranz.net) (Get it, .net? Heh)
+
+[![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sossenbinder)](https://github.com/Sossenbinder/github-readme-stats)
